@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/title level.unity
+    guid: 1364c81d0f4f5ba448dc297bb45352d2
+  - enabled: 1
+    path: Assets/Scenes/church level.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/loading level.unity
+    guid: 01180eb72daa23f4b81952d524817ec5
+  - enabled: 1
+    path: Assets/Scenes/credits level.unity
+    guid: 4d1b4c6fec0425e45b0503222e4255a4
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 9a34be188f764b5498e44e64dc626dc5, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 611e756dc755d89469ee83c6be0ad594, type: 2}

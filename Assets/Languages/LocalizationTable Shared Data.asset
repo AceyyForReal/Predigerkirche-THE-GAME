@@ -1,0 +1,251 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocalizationTable Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: LocalizationTable
+  m_TableCollectionNameGuidString: edfa63133a3f4384a98a7e60e333727a
+  m_Entries:
+  - m_Id: 24614510592
+    m_Key: m_start_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153786490880
+    m_Key: m_controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265426280448
+    m_Key: m_credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310838009856
+    m_Key: m_exit_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066630619136
+    m_Key: m_move_forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158171303936
+    m_Key: m_move_backward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1227989688320
+    m_Key: m_move_right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1322919370752
+    m_Key: m_move_left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1406327300096
+    m_Key: m_run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1441664311296
+    m_Key: m_interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510354427904
+    m_Key: m_leave_dialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1829792620544
+    m_Key: m_back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2510322638848
+    m_Key: m_loading_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2756092076032
+    m_Key: d_intro_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2799574425600
+    m_Key: d_intro_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8296406949888
+    m_Key: d_outro_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8320507420672
+    m_Key: d_outro_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8872603656192
+    m_Key: hud_press_to_interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8991688335360
+    m_Key: hud_discovered_objects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9963198193664
+    m_Key: m_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10022170107904
+    m_Key: m_graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10160133349376
+    m_Key: m_sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10176608575488
+    m_Key: m_language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10194170126336
+    m_Key: m_main_menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10596470988800
+    m_Key: m_resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10649466019840
+    m_Key: m_AA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10763660140544
+    m_Key: m_renderscale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10835470819328
+    m_Key: m_fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10884875526144
+    m_Key: m_showFPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10948884799488
+    m_Key: m_motionBlur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11031500005376
+    m_Key: m_bloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11083001864192
+    m_Key: m_DoF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11163310202880
+    m_Key: m_AO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11649539088384
+    m_Key: m_musicVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11731701309440
+    m_Key: m_dialogueVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11846813982720
+    m_Key: m_effectsVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11975050633216
+    m_Key: m_german
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12020915347456
+    m_Key: m_english
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12041089949696
+    m_Key: m_ukranian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12598210961408
+    m_Key: EMPTY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26783519055872
+    m_Key: INT_Schwarzburg_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27028156030976
+    m_Key: 'INT_Schwarzburg_text
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27877267709952
+    m_Key: INT_Saulus_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27919642763264
+    m_Key: INT_Saulus_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28271582617600
+    m_Key: INT_Altar_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28304239468544
+    m_Key: INT_Altar_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28701037404160
+    m_Key: INT_Eckhart_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30219836825600
+    m_Key: INT_Eckhart_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30611521904640
+    m_Key: INT_Gustav_Adolf_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30745177595904
+    m_Key: INT_Gustav_Adolf_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31042344034304
+    m_Key: INT_Aurifaber_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31081011322880
+    m_Key: INT_Aurifaber_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31300247592960
+    m_Key: INT_Madonna_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31328294903808
+    m_Key: INT_Madonna_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150275190759424
+    m_Key: m_ScrollingCredits
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2234660723404570648
+  references:
+    version: 2
+    RefIds:
+    - rid: 2234660723404570648
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1770187622081

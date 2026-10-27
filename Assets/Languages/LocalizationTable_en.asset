@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTable_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: edfa63133a3f4384a98a7e60e333727a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24614510592
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153786490880
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265426280448
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310838009856
+    m_Localized: Exit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066630619136
+    m_Localized: Move Forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158171303936
+    m_Localized: Move Backward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1227989688320
+    m_Localized: Move right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1322919370752
+    m_Localized: Move left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1406327300096
+    m_Localized: Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1441664311296
+    m_Localized: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510354427904
+    m_Localized: Leave Dialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1829792620544
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2510322638848
+    m_Localized: Loading Game...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2799574425600
+    m_Localized: Pastor Ackermann
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2756092076032
+    m_Localized: "Hello, welcome to the Preacher's Church in Erfurt! I'm Pastor Ackermann,
+      and I'll guide you through the church. The church isn't just a place for worship\u2014it's
+      also a piece of history. There are many different things to discover here;
+      they're marked with a yellow symbol. You can simply click on the objects and
+      I'll tell you fascinating facts about them! Each of these objects tells its
+      own story\u2014about people who lived here, about important events, and about
+      the faith that moved so many people. Have fun on your journey of discovery
+      through the Preacher's Church!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8296406949888
+    m_Localized: Our tour is now over. However, you're welcome to take a look around
+      the Preacher's Church and explore everything at your leisure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8320507420672
+    m_Localized: Pastor Ackermann
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8872603656192
+    m_Localized: Press E to interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8991688335360
+    m_Localized: Discovered Objects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9963198193664
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10022170107904
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10160133349376
+    m_Localized: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10176608575488
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10194170126336
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10596470988800
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10649466019840
+    m_Localized: Anti-Aliasing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10763660140544
+    m_Localized: Render scale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10835470819328
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10884875526144
+    m_Localized: Show FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10948884799488
+    m_Localized: Motion Blur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11031500005376
+    m_Localized: Bloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11083001864192
+    m_Localized: Depth of Field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11163310202880
+    m_Localized: Ambient Occlusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11649539088384
+    m_Localized: Music volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11731701309440
+    m_Localized: Dialogue Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11846813982720
+    m_Localized: Effects Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11975050633216
+    m_Localized: German
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12020915347456
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12041089949696
+    m_Localized: Ukrainian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12598210961408
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26783519055872
+    m_Localized: "G\xFCnther von Schwarzburg's tomb"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27028156030976
+    m_Localized: "G\xFCnther von Schwarzburg was a count from Thuringia who was elected
+      King of the Romans in 1349. His reign, however, was quite short, as he lost
+      the power struggle against Charles IV. He sought refuge in Frankfurt am Main,
+      but fell gravely ill there. He eventually abdicated voluntarily. A few weeks
+      later, he died and was buried in St. Bartholomew's Church. His fate illustrates
+      how quickly power and glory can vanish \u2013 but also that true greatness
+      lies in preserving dignity and peace in difficult times."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27919642763264
+    m_Localized: "Even before 1967, the church workshops in Erfurt produced artistic
+      brass works. A well-known story from the Bible is that of Saul: On the road
+      to Damascus, he encountered a bright, heavenly light. This experience completely
+      changed his life \u2013 the persecutor Saul became Paul, one of the most important
+      apostles. His example shows how profoundly faith can transform a person. To
+      this day, his letters and thoughts shape Christianity. His transformation is
+      a powerful symbol of hope and new beginnings."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27877267709952
+    m_Localized: Saul before Damascus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28304239468544
+    m_Localized: The high altar, dedicated to the Evangelist John, is located on
+      the east side of the high choir. The lower part, a stone block with blind arcades,
+      dates from the time the choir was built (1280). A three-wing carved altar,
+      originally from Paul's Church, has adorned this square since the 16th century.
+      The masterpiece by Linhart Koenberg, an outstanding Erfurt master carver of
+      the 15th century, is dated 1492. The apostles Paul and Peter are painted on
+      the outside. The second side of the wings shows various scenes, particularly
+      during Lent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28271582617600
+    m_Localized: The High altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30219836825600
+    m_Localized: "Master Eckhart was a well-known German theologian and mystic. He
+      conceived the idea of \u200B\u200Ba \"prayer church.\" By this, he meant that
+      prayer is more than just a fixed ritual. It is something very personal and
+      can transform a person. According to Eckhart, every person can connect with
+      God through honest reflection and silent prayer. This brings inner peace and
+      a sense of fulfillment. The \"prayer church\" invites people to seek God's
+      closeness within themselves. In this way, they can feel the power of prayer
+      in their everyday lives and experience how it transforms their lives."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28701037404160
+    m_Localized: Master Eckhart and the Prayers' Church
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30745177595904
+    m_Localized: Gustav Adolf Chandelier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30611521904640
+    m_Localized: 'In the high choir hangs a large candlestick, the "Gustav Adolf
+      Candlestick," featuring eight figures of the apostles. Eduard Bode donated
+      it to the Preachers'' Church in 1647. He wanted to honor the Swedish King Gustav
+      II Adolf with this donation. At the same time, he also had personal reasons:
+      Bode had no children and was said to have had a relationship with Maria Krondorferin.
+      At the time, many people derogatorily called her a "poor whore." The candlestick
+      therefore combines personal feelings of guilt with the desire to demonstrate
+      faith. Today, it is considered a symbol of repentance, remembrance, and the
+      hope of forgiveness from God.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31042344034304
+    m_Localized: Aurifaber's tomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31081011322880
+    m_Localized: "Johannes Aurifaber, also known as Johann Goldschmidt, was an important
+      reformer in the 16th century. He studied in Wittenberg and met Martin Luther
+      there personally. Luther's ideas had a profound influence on him. Aurifaber
+      helped spread the new ideas of the Reformation\u2014for example, through translations
+      and sermons. With his work, he had a profound impact on the religious development
+      of his time."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31300247592960
+    m_Localized: Madonna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31328294903808
+    m_Localized: 'The sculpture of the Virgin Mary is also called the "Schmedestedt
+      Madonna." Along with a Crucifixion panel, it was part of the original furnishings
+      of the choir screen. A choir screen is a decorative wall or grille that separates
+      the choir from the rest of the church. What is particularly striking about
+      the Madonna is its shape: her body is slender and depicted in an elegant S-line.
+      Above, the tight clothing emphasizes her body shape. Below, however, one can
+      see many long folds in the fabric. They hang straight down and almost completely
+      cover her legs.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150275190759424
+    m_Localized: "<b>Teachers who supervised our project:</b>\r\n\r\nIn the early
+      development phase:\r\n<i>Dr. Blasius</i>\r\n\r\nIn the late development phase:\r\n<i>Mr.
+      Quent</i>\r\n\r\n\r\n<b>Our development team:</b>\r\n\r\n<b>Adrian E.</b>\r\nProgramming,
+      3D scanning, research, organization, reference images, playtesting\r\n\r\n<b>Dmytro
+      A.</b>\r\nModeling, playtesting, reference images, organization\r\n\r\n<b>Gabriel
+      R.</b>\r\nResearch, test coordination, reference images, playtesting\r\n\r\n<b>Alex
+      L.</b>\r\nReference images, organization, research\r\n\r\n\r\n<b>Assets & Resources:</b>\r\n\r\n<b>Skybox</b>\r\nPolyhaven\r\n\r\n<b>Player
+      model (modified)</b>\r\nMaxime66410\r\n\r\n<b>Footstep sounds</b>\r\nFesliyan
+      Studio\r\n\r\n<b>Background music</b>\r\nFesliyan Studio\r\n\r\n<b>Sandstone
+      textures</b>\r\nPolyhaven\r\n\r\n<b>Other textures</b>\r\nAmbientCG, Polyhaven\r\n\r\n\r\n<b>Special
+      thanks to:</b>\r\n<i>Pastor Ackermann</i>\r\nfor recording his voice for the
+      project\r\n\r\nPlaytesters\r\nfor valuable feedback and suggestions for improvement\r\n\r\n\xA9
+      2025 Crisis Portabe\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

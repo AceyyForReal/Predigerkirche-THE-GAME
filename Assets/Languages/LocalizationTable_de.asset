@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTable_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: edfa63133a3f4384a98a7e60e333727a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24614510592
+    m_Localized: Spiel starten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153786490880
+    m_Localized: Steuerung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265426280448
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310838009856
+    m_Localized: Spiel verlassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066630619136
+    m_Localized: Nach vorne bewegen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158171303936
+    m_Localized: Nach hinten bewegen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1227989688320
+    m_Localized: Nach rechts bewegen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1322919370752
+    m_Localized: Nach links bewegen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1406327300096
+    m_Localized: Rennen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1441664311296
+    m_Localized: Interagieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510354427904
+    m_Localized: Dialog verlassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1829792620544
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2510322638848
+    m_Localized: Laden...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2799574425600
+    m_Localized: Pfarrer Ackermann
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2756092076032
+    m_Localized: "Hallo, willkommen in der Predigerkirche zu Erfurt! Ich bin Pfarrer
+      Ackermann und werde dich durch die Kirche f\xFChren.  Die Kirche ist nicht
+      nur ein Ort f\xFCr Gottesdienste \u2013 sie ist auch ein St\xFCck Geschichte. 
+      Es gibt hier viele verschiedene Dinge zu entdecken; sie sind mit einem gelben
+      Symbol markiert. Du kannst einfach auf die Objekte klicken und ich werde dir
+      Spannendes dar\xFCber erz\xE4hlen! Jedes dieser Objekte erz\xE4hlt eine eigene
+      Geschichte \u2013 von Menschen, die hier gelebt haben, von wichtigen Ereignissen
+      und vom Glauben, der viele Menschen bewegt hat. Viel Spa\xDF auf deiner Entdeckungsreise
+      durch die Predigerkirche!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8296406949888
+    m_Localized: "Unsere F\xFChrung ist nun zu Ende. Du kannst dich aber gerne noch
+      hier in der Predigerkirche umsehen und alles in Ruhe entdecken und auf Dich
+      wirken lassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8320507420672
+    m_Localized: Pfarrer Ackermann
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8872603656192
+    m_Localized: "Dr\xFCcke E, um zu interagieren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8991688335360
+    m_Localized: Entdeckte Objekte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9963198193664
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10194170126336
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10176608575488
+    m_Localized: Sprache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10160133349376
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10022170107904
+    m_Localized: Grafik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10596470988800
+    m_Localized: "Aufl\xF6sung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10649466019840
+    m_Localized: "Kantengl\xE4ttung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10763660140544
+    m_Localized: Renderskalierung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10835470819328
+    m_Localized: Vollbild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10884875526144
+    m_Localized: FPS anzeigen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10948884799488
+    m_Localized: "Bewegungsunsch\xE4rfe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11031500005376
+    m_Localized: Bloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11083001864192
+    m_Localized: "Tiefenunsch\xE4rfe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11163310202880
+    m_Localized: Umgebungsverdeckung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11649539088384
+    m_Localized: "Musiklautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11731701309440
+    m_Localized: "Dialoglautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11846813982720
+    m_Localized: "Effektlautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11975050633216
+    m_Localized: Deutsch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12020915347456
+    m_Localized: Englisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12041089949696
+    m_Localized: Ukrainisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12598210961408
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26783519055872
+    m_Localized: "G\xFCnther von Schwarzburgs Grabmal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27028156030976
+    m_Localized: "G\xFCnther von Schwarzburg war ein Graf aus Th\xFCringen und wurde
+      im Jahr 1349 zum r\xF6misch-deutschen K\xF6nig gew\xE4hlt. Seine Zeit als Herrscher
+      war allerdings ziemlich kurz, denn er verlor den Machtkampf gegen Karl IV.
+      In Frankfurt am Main suchte er Schutz, wurde dort aber schwer krank. Schlie\xDFlich
+      gab er die Krone freiwillig ab. Wenige Wochen sp\xE4ter starb er und wurde
+      in der Bartholom\xE4uskirche beigesetzt. Sein Schicksal zeigt, wie schnell
+      Macht und Ruhm vergehen k\xF6nnen \u2013 aber auch, dass Gr\xF6\xDFe darin
+      liegt, in schwierigen Momenten W\xFCrde und Frieden zu bewahren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27919642763264
+    m_Localized: "Die Kirchlichen Werkst\xE4tten in Erfurt stellten schon vor 1967
+      kunstvolle Arbeiten aus Messing her. Eine bekannte Geschichte aus der Bibel
+      ist die von Saulus: Auf dem Weg nach Damaskus begegnete er einem hellen, himmlischen
+      Licht. Dieses Erlebnis ver\xE4nderte sein Leben komplett \u2013 aus dem Verfolger
+      Saulus wurde Paulus, einer der wichtigsten Apostel. Sein Beispiel zeigt, wie
+      stark der Glaube einen Menschen ver\xE4ndern kann. Bis heute pr\xE4gen seine
+      Briefe und Gedanken das Christentum. Seine Wandlung ist ein starkes Zeichen
+      f\xFCr Hoffnung und Neubeginn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27877267709952
+    m_Localized: Saulus vor Damaskus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28271582617600
+    m_Localized: Der Hochaltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28304239468544
+    m_Localized: "Der Hochaltar, gewidmet dem Evangelisten Johannes, befindet sich
+      auf der Ostseite des Hohen Chores. Der untere Teil, ein steinerner Block mit
+      Blendarkaden, stammt aus der Entstehungszeit des Chores (1280). Seit dem 16.
+      Jahrhundert schm\xFCckt ein dreifl\xFCgliger Schnitzaltar, urspr\xFCnglich
+      aus der Paulskirche, diesen Platz. Das Meisterwerk von Linhart Koenberg, einem
+      herausragenden Erfurter Schnitzmeister des 15. Jahrhunderts, tr\xE4gt das Datum
+      1492. Auf der Au\xDFenseite sind die Apostel Paulus und Petrus gemalt. Die
+      zweite Seite der Fl\xFCgel zeigt verschiedene Szenen, insbesondere w\xE4hrend
+      der Fastenzeit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30219836825600
+    m_Localized: "Meister Eckhart war ein bekannter deutscher Theologe und Mystiker.
+      Er hatte die Idee von einer \u201EGebetskirche\u201C. Damit meinte er: Das
+      Gebet ist mehr als nur ein festes Ritual. Es ist etwas sehr Pers\xF6nliches
+      und kann einen Menschen ver\xE4ndern. Nach Eckhart kann jeder Mensch durch
+      ehrliches Nachdenken und stilles Beten mit Gott in Verbindung kommen. Das bringt
+      inneren Frieden und ein Gef\xFChl von Erf\xFCllung. Die \u201EGebetskirche\u201C
+      l\xE4dt Menschen dazu ein, Gottes N\xE4he in sich selbst zu suchen. So k\xF6nnen
+      sie die Kraft des Gebets auch im Alltag sp\xFCren und erleben, wie es ihr Leben
+      ver\xE4ndert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28701037404160
+    m_Localized: Meister Eckhart und die Predigerkirche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30611521904640
+    m_Localized: "Im Hohen Chor h\xE4ngt ein beeindruckender Leuchter, der sogenannte
+      \u201EGustav-Adolf-Leuchter\u201C. Er wurde 1647 von Eduard Bode gestiftet
+      und zeigt acht Figuren der Apostel. Mit diesem Leuchter wollte Bode den schwedischen
+      K\xF6nig Gustav II. Adolf ehren. Gleichzeitig steckt auch etwas Pers\xF6nliches
+      dahinter: Eduard Bode hatte keine Kinder und soll eine Beziehung zu Maria Krondorferin
+      gehabt haben \u2013 einer Frau, die damals abwertend als \u201Earme Hure\u201C
+      bezeichnet wurde. Der Leuchter verbindet also pers\xF6nliche Schuldgef\xFChle
+      mit dem Wunsch, \xF6ffentlich seinen Glauben zu zeigen. Heute gilt er als starkes
+      Symbol f\xFCr Bu\xDFe, Erinnerung und die Hoffnung auf g\xF6ttliche Vergebung."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30745177595904
+    m_Localized: Gustav-Adolf-Leuchter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31042344034304
+    m_Localized: Aurifabers Grabmal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31081011322880
+    m_Localized: "Johannes Aurifaber, auch bekannt als Johann Goldschmidt, war ein
+      wichtiger Reformator im 16. Jahrhundert. Er studierte in Wittenberg und lernte
+      dort sogar Martin Luther pers\xF6nlich kennen, dessen Ideen ihn stark beeinflussten.
+      Aurifaber half dabei, die neuen Gedanken der Reformation weiterzutragen \u2013
+      zum Beispiel durch \xDCbersetzungen und Predigten. Mit seinem Engagement hat
+      er die religi\xF6se Entwicklung seiner Zeit entscheidend mitgepr\xE4gt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31300247592960
+    m_Localized: Madonna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31328294903808
+    m_Localized: "Die Marienskulptur, auch \u201ESchmedestedtsche Madonna\u201C genannt,
+      geh\xF6rt zusammen mit der Kreuzigungstafel zur urspr\xFCnglichen Ausstattung
+      der Chorschranke. Besonders spannend ist ihre Form: Der schlanke K\xF6rper
+      ist in einer eleganten S-Linie dargestellt, die oben durch die eng anliegende
+      Kleidung noch betont wird. Darunter erkennt man deutlich die K\xF6rperformen.
+      Unten dagegen f\xE4llt der Blick auf viele lange, senkrechte Falten im Stoff,
+      die die Beine fast komplett verstecken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150275190759424
+    m_Localized: "<b>Lehrkr\xE4fte, die unser Projekt betreut haben:</b>\r\n\r\nIn
+      der fr\xFChen Entwicklungsphase:\r\n<i>Frau Dr. Blasius</i>\r\n\r\nIn der sp\xE4ten
+      Entwicklungsphase:\r\n<i>Herr Quent</i>\r\n\r\n\r\n<b>Unser Entwicklerteam:</b>\r\n\r\n<b>Adrian
+      E.</b>\r\nProgrammierung, 3D-Scanning, Recherche, Organisation, Referenzbilder,
+      Playtesting\r\n\r\n<b>Dmytro A.</b>\r\nModellierung, Playtesting, Referenzbilder,
+      Organisation\r\n\r\n<b>Gabriel R.</b>\r\nRecherche, Testorganisation, Referenzbilder,
+      Playtesting\r\n\r\n<b>Alex. L.</b>\r\nReferenzbilder, Organisation, Recherche\r\n\r\n\r\n<b>Assets
+      & Ressourcen:</b>\r\n\r\n<b>Skybox</b>\r\nPolyhaven\r\n\r\n<b>Spielermodell
+      (modifiziert)</b>\r\nMaxime66410\r\n\r\n<b>Schrittger\xE4usche</b>\r\nFesliyan
+      Studio\r\n\r\n<b>Hintergrundmusik</b>\r\nFesliyan Studio\r\n\r\n<b>Sandsteintexturen</b>\r\nPolyhaven\r\n\r\n<b>Andere
+      Texturen</b>\r\nAmbientCG, Polyhaven\r\n\r\n\r\n<b>Besonderer Dank an:</b>\r\n<i>Herrn
+      Pfarrer Ackermann</i>\r\nf\xFCr die Aufnahme seiner Stimme im Projekt\r\n\r\nTestspieler*innen\r\nf\xFCr
+      wertvolles Feedback und Verbesserungsvorschl\xE4ge\r\n\r\n\xA9 2025 Crisis
+      Portabe\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
